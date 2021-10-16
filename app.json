@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "project_5",
-    "slug": "project_5",
+    "name": "iTuneIn",
+    "slug": "iTuneIn",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
