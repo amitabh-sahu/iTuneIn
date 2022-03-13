@@ -12,7 +12,7 @@ The iTuneIn is a basic audio player app build using react-native expo cli.
 
 | image: 1 | image: 2 | image: 3 | image: 4 | image: 5 |
 |:--:|:--:|:--:|:--:|:--:|
-| ![first_launch_popup](assets\app_img\first_launch_popup.jpg) | ![audiolist_screen](assets\app_img\audiolist_screen.jpg) | ![player_screen](assets\app_img\player_screen.jpg) | ![playlist_screen](assets\app_img\playlist_screen.jpg) | ![create_playlist](assets\app_img\create_playlist.jpg) |
+| ![first_launch_popup](https://github.com/amitabh-sahu/iTuneIn/blob/master/assets/app_img/first_launch_popup.jpg) | ![audiolist_screen](https://github.com/amitabh-sahu/iTuneIn/blob/master/assets/app_img/audiolist_screen.jpg) | ![player_screen](https://github.com/amitabh-sahu/iTuneIn/blob/master/assets/app_img/player_screen.jpg) | ![playlist_screen](https://github.com/amitabh-sahu/iTuneIn/blob/master/assets/app_img/playlist_screen.jpg) | ![create_playlist](https://github.com/amitabh-sahu/iTuneIn/blob/master/assets/app_img/create_playlist.jpg) |
 
 ## Technologies
 * react-native
